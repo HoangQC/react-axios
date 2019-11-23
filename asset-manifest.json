@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-axios/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/react-axios/static/js/main.33c454de.chunk.js",
+    "main.js.map": "/react-axios/static/js/main.33c454de.chunk.js.map",
+    "runtime-main.js": "/react-axios/static/js/runtime-main.b41c640d.js",
+    "runtime-main.js.map": "/react-axios/static/js/runtime-main.b41c640d.js.map",
+    "static/js/2.52aabbf1.chunk.js": "/react-axios/static/js/2.52aabbf1.chunk.js",
+    "static/js/2.52aabbf1.chunk.js.map": "/react-axios/static/js/2.52aabbf1.chunk.js.map",
+    "index.html": "/react-axios/index.html",
+    "precache-manifest.8175fec308b150e27d4d8f5d3bb69285.js": "/react-axios/precache-manifest.8175fec308b150e27d4d8f5d3bb69285.js",
+    "service-worker.js": "/react-axios/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/react-axios/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41c640d.js",
+    "static/js/2.52aabbf1.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.33c454de.chunk.js"
+  ]
+}
